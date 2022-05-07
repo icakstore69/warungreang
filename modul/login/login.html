@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login akun anda</title>
+    <link rel="stylesheet" href="../../css/stylelogin.css">
+</head>
+<body>
+    <form action="../../index.html" method="post">
+        <div class="imgcontainer">
+          <img src="https://i.postimg.cc/9QVZH7xQ/logo.webp" alt="Avatar" class="avatar">
+        </div>
+      
+        <div class="container">
+          <label for="uname"><b>Nama Pengguna</b></label>
+          <input type="text" placeholder="Masukan Nama Pengguna..." name="uname" required>
+      
+          <label for="psw"><b>Kata Sandi</b></label>
+          <input type="password" placeholder="Masukan Kata Sandi..." name="psw" required>
+      
+          <button type="submit" onclick="alert('Anda berhasil Login dan otomatis ke beranda')">Masuk</button>
+          <label>
+            <input type="checkbox" checked="checked" name="remember">Ingat Saya
+          </label>
+        </div>
+      
+        <div class="container" style="background-color:#f1f1f1">
+          <button type="button" class="cancelbtn"><a href="#" onclick="history.go(-1)">Kembali</a></button>
+          <span class="psw">Lupa <a href="lupa_password.html">Kata Sandi?</a></span>
+        </div>
+      </form>      
+</body>
+</html>

@@ -1,0 +1,25 @@
+body{
+    background-image: url('https://i.postimg.cc/Sx62JSMy/toko.jpg');
+}
+h1{
+    color: #ffff;
+    font-size: 100px;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.button{
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+a{text-decoration: none;}
+.rbtn {
+    background-color: #04AA6D;
+    color: white;
+    padding: 16px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    opacity: 0.9;
+  }

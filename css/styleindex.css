@@ -1,0 +1,13 @@
+body{
+    background-image: url('https://i.postimg.cc/Qtq5dJ6M/bg-gedang.jpg');
+}
+.tombol{
+    float: right;
+    display: inline-flex;
+    background-color: rgb(217, 253, 15);
+    padding: 5px;
+}
+h1{
+    text-align: center;
+}
+a{text-decoration: none;}

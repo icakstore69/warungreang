@@ -1,0 +1,16 @@
+body{
+    background-image: url('https://i.postimg.cc/brLrzBKh/invo.jpg');
+    text-align: center;
+}
+#thanks{
+    font-size: 50px;
+    color: whitesmoke;
+    text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px #effb07, 0 0 30px #effb07,
+     0 0 40px #effb07, 0 0 55px #effb07, 0 0 75px #effb07;
+}
+a{text-decoration: none;}
+.cancelbtn {
+	width: auto;
+	padding: 10px 18px;
+	background-color: #edc41e;
+  }

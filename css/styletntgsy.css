@@ -1,0 +1,17 @@
+body{
+    background-image: url('https://i.postimg.cc/6qD6CNhh/kr.jpg');
+    color:#fff ;
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+    font-family: "Roboto";
+    color: #fff;
+    text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px #208FC6, 0 0 30px #208FC6,
+     0 0 40px #208FC6, 0 0 55px #208FC6, 0 0 75px #208FC6;
+}
+img{
+    height: 350px;
+    width: 350px;
+    border-radius: 100%;
+}
